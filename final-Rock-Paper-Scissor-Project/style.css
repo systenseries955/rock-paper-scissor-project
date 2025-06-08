@@ -1,0 +1,59 @@
+  body{
+                background-color: black;
+                color:white;
+                font-size: 2rem;
+                 text-align: center; 
+            }
+            .title{
+                font-size: 2rem;
+                text-align: center;
+            }
+            .btn-image-icon{
+             height: 75px;
+            
+           
+        
+            }
+
+             .action,.paper-action,.scissor-action{
+                background: transparent;
+               width: 150px;
+               height: 150px;
+               border-radius: 75px;
+               margin-left: 40px;
+               border: 3px solid white;
+               cursor: pointer;
+               margin-right: 10px;
+            }  
+            .action{
+                 background-color: rgb(177, 43, 177);
+            }
+           
+             .paper-action{
+                background-color:rgb(92, 51, 155);  
+            }
+             .scissor-action{
+                background-color:rgb(71, 71, 188);
+             }
+
+             .result{
+                font-size: 25px;
+                font-weight: bold;
+                margin-top: 50px;
+             }
+
+
+            .reset-btn-icon{
+                height: 40px;
+                width: 130px;
+                background-color: azure;
+                color: black;
+                font-size: 18px;
+                padding:10px;
+               font-weight: bold;
+               border:2px solid black;
+               border-radius: 50px;
+               margin-top: 20px;
+               margin-left: 38px;
+
+            }
